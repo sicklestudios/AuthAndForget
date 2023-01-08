@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916466368401",
+    "project_id": "authandforget",
+    "storage_bucket": "authandforget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916466368401:android:cf4f1ef8b5a914b493e430",
+        "android_client_info": {
+          "package_name": "com.example.authandforget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916466368401-n0037h7i0m046jgmk6n4asobq0u05lj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVoUh55fUrJ9B-HSe_0B6m3awcAPvAyoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916466368401-n0037h7i0m046jgmk6n4asobq0u05lj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
